@@ -1,4 +1,4 @@
 ﻿interface:
   display_name: "备课工作流"
-  short_description: "家教备课闭环: 制定周期方案 → 撰写教案 → 制作PPT课件 → 课后复盘调整计划"
-  default_prompt: "请根据学生档案制定15天的家教备课方案，包含周期方案、教案和PPT课件"
+  short_description: "通用备课：制定学习周期方案 → 撰写教案 → 制作PPT课件 → 课后复盘。支持任何科目，支持长期规划和单次备课两种模式。"
+  default_prompt: "请根据学生情况制定备课方案，包含教案和课件"
